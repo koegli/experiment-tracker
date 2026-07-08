@@ -4,4 +4,8 @@ Treated samples show a 2-fold increase in expression compared to control.
 
 Reviewed by collaborator on GitHub.
 
+<<<<<<< HEAD
 Test for stash
+=======
+Local test for stash
+>>>>>>> 776a8ba (Local test for stash)
